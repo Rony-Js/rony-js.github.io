@@ -1,74 +1,182 @@
-- title: Education
-  entries:
-    - title: "IPVCE Carlos Marx"
-      sub: "High School Diploma in Exact Sciences"
-      location: "Cárdenas, Matanzas, Cuba"
-      dates: "Currently in 12th Grade"
-      bullets:
-        - "Secondary School Graduate (Annex Classroom of the Vocational Pre-University Institute of Exact Sciences), 2023."
-    - title: "IPVCE Carlos Marx"
-      sub: "Secondary School Graduate"
-      location: "Cárdenas, Matanzas, Cuba"
-      dates: "2023"
+# ============================================================
+# HEADER (metadatos del sitio)
+# ============================================================
+name: "Ronelvys Fuentes Sanchez"
+title: "Competitive Programmer & Student"
+email: "ronelvys.fuentes.es@gmail.com"
+location: "Cárdenas, Matanzas, Cuba"
 
-- title: Experience
-  entries:
-    - title: "Competitive Programming Contestant"
-      sub: "IPVCE Carlos Marx"
-      location: "Cárdenas, Matanzas, Cuba"
-      dates: "2023-2027"
-      bullets:
-        - "Active competitor in provincial, national and international programming contests."
-    - title: "Chemistry Contestant"
-      sub: "ESBU José Martí"
-      location: "Cárdenas, Matanzas, Cuba"
-      dates: "2021-2023"
+social:
+  - name: "GitHub"
+    url: "https://github.com/Rony-Js"
+    icon: "github"
+  - name: "Telegram"
+    url: "https://t.me/Rony_Js"
+    icon: "telegram"
+  - name: "Codeforces"
+    url: "https://codeforces.com/profile/Rony-js"
+    icon: "code"
 
-- title: Skills
-  entries:
-    - title: "Programming Languages"
-      bullets:
-        - "Python, C++"
-    - title: "Frameworks & Tools"
-      bullets:
-        - "VS Code, PlatformIO, Arduino"
-    - title: "Languages"
-      bullets:
-        - "Spanish (Native), English (Intermediate), Italian (Basic), Portuguese (Basic)"
+# ============================================================
+# ABOUT
+# ============================================================
+about: |
+  Hi, I'm Ronelvys. I am currently a student at the Carlos Marx Pre-University
+  Institute of Exact Sciences. I am passionate about science, especially
+  computer science. I am always creating and learning because it is my passion,
+  and I like to make the most of my time and not feel like I am wasting it.
+  I can adapt to any environment, from working individually to working in a
+  team, even as the leader, as long as it is to achieve success. I have
+  participated in projects in my community and I was also the creator of the
+  first private competitive programming project there.
 
-- title: Projects
-  entries:
-    - title: "Doppler Project"
-      sub: "Founder & Lead"
-      location: "Cárdenas, Matanzas, Cuba"
-      dates: "2023-Present"
-      bullets:
-        - "Local development initiative to identify and nurture young talent through computer science and competitive programming."
-        - "First independent and private project based on learning and computer science in the city of Cárdenas."
-    - title: "Recycled Materials Robotics Project"
-      sub: "Author"
-      location: "Cuba"
-      dates: "2024"
-      bullets:
-        - "First Place in the Scientific Societies Conference."
-        - "Second Place nationally at the National Scientific Societies Conference."
+# ============================================================
+# SECTIONS
+# ============================================================
+sections:
 
-- title: Achievements
-  entries:
-    - title: "Ibero-American Informatics Olympiad"
-      sub: "Bronze Medal"
-      dates: "2025"
-    - title: "National Computer Science Contest"
-      sub: "Silver Medal"
-      dates: "2024"
-    - title: "UCI Cup"
-      sub: "Silver Medal"
-      dates: "2023, 2024"
-    - title: "Provincial Contest"
-      sub: "Gold Medal"
-      dates: "2023, 2024, 2025"
-    - title: "International IT Olympiad"
-      sub: "Honorable Mention"
-      dates: "2024"
-    - title: "National Preselection in Computer Science"
-      dates: "2024, 2025"
+  # ----------------------------------------------------------
+  # EDUCATION
+  # ----------------------------------------------------------
+  - title: Education
+    entries:
+      - title: "IPVCE Carlos Marx"
+        sub: "High School Diploma in Exact Sciences"
+        location: "Cárdenas, Matanzas, Cuba"
+        dates: "2024 – Present"
+        bullets:
+          - "Currently in 12th Grade."
+          - "Focused on Exact Sciences: Mathematics, Physics, Chemistry and Computer Science."
+
+      - title: "IPVCE Carlos Marx"
+        sub: "Secondary School Graduate (Annex Classroom of the Vocational Pre-University Institute of Exact Sciences)"
+        location: "Cárdenas, Matanzas, Cuba"
+        dates: "2023"
+        bullets:
+          - "Completed secondary education with honors."
+
+  # ----------------------------------------------------------
+  # EXPERIENCE
+  # ----------------------------------------------------------
+  - title: Experience
+    entries:
+      - title: "Competitive Programming Contestant · IPVCE Carlos Marx"
+        location: "Cárdenas, Matanzas, Cuba"
+        dates: "2023 – 2027"
+        bullets:
+          - "Represent the institution in provincial, national and international programming contests."
+          - "Train regularly on Codeforces and other competitive programming platforms."
+          - "Member of the national preselection in computer science (2024, 2025)."
+
+      - title: "Chemistry Contestant · ESBU José Martí"
+        location: "Cárdenas, Matanzas, Cuba"
+        dates: "2021 – 2023"
+        bullets:
+          - "Participated in provincial and national chemistry contests."
+
+  # ----------------------------------------------------------
+  # SKILLS
+  # ----------------------------------------------------------
+  - title: Skills
+    entries:
+      - title: "Programming Languages"
+        bullets:
+          - "Python, C++"
+
+      - title: "Frameworks & Tools"
+        bullets:
+          - "VS Code, PlatformIO, Arduino, Git & GitHub"
+
+      - title: "Languages"
+        bullets:
+          - "Spanish (Native)"
+          - "English (Intermediate)"
+          - "Italian (Basic)"
+          - "Portuguese (Basic)"
+
+  # ----------------------------------------------------------
+  # PROJECTS
+  # ----------------------------------------------------------
+  - title: Projects
+    entries:
+      - title: "Doppler Project"
+        sub: "Founder & Lead"
+        location: "Cárdenas, Matanzas, Cuba"
+        dates: "2023 – Present"
+        bullets:
+          - "Local development initiative to identify and nurture young talent through computer science and competitive programming."
+          - "First independent and private project based on learning and computer science in the city of Cárdenas."
+          - "Consolidated as a learning and growth hub for new generations."
+
+      - title: "Recycled Materials Robotics Project"
+        sub: "Author"
+        location: "Cuba"
+        dates: "2024"
+        bullets:
+          - "First Place in the Scientific Societies Conference."
+          - "Second Place nationally at the National Scientific Societies Conference."
+          - "Built with recycled materials, combining robotics and sustainability."
+
+  # ----------------------------------------------------------
+  # AWARDS & ACHIEVEMENTS
+  # ----------------------------------------------------------
+  - title: Awards & Achievements
+    entries:
+      - title: "Ibero-American Informatics Olympiad"
+        sub: "Bronze Medal"
+        dates: "2025"
+        bullets:
+          - "Represented Cuba at the Ibero-American Informatics Olympiad."
+
+      - title: "National Preselection in Computer Science"
+        dates: "2024, 2025"
+        bullets:
+          - "Selected for the national preselection team two consecutive years."
+
+      - title: "National Computer Science Contest"
+        sub: "Silver Medal"
+        dates: "2024"
+
+      - title: "International IT Olympiad"
+        sub: "Honorable Mention"
+        dates: "2024"
+
+      - title: "UCI Cup"
+        sub: "Silver Medal"
+        dates: "2023, 2024"
+
+      - title: "Provincial Contest"
+        sub: "Gold Medal"
+        dates: "2023, 2024, 2025"
+        bullets:
+          - "Gold Medal three years in a row."
+
+      - title: "ICPC Qualifier"
+        sub: "Participant"
+        dates: "2023, 2025"
+
+      - title: "IPVCE Regional Cup"
+        sub: "Participant"
+        dates: "2023"
+
+  # ----------------------------------------------------------
+  # PUBLICATIONS (placeholder — por si luego añades)
+  # ----------------------------------------------------------
+  # - title: Publications
+  #   entries:
+  #     - title: "Article Title"
+  #       sub: "Journal Name, Year"
+  #       bullets:
+  #         - "Short description or highlight of the publication."
+
+  # ----------------------------------------------------------
+  # DOCUMENTS (para enlaces a PDF)
+  # ----------------------------------------------------------
+  - title: Documents
+    entries:
+      - title: "Curriculum Vitae"
+        sub: "PDF"
+        location: "Download"
+        dates: "Updated 2026"
+        bullets:
+          - "[View PDF](/CV/cv.pdf)"
