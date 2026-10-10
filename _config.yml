@@ -18,3 +18,4 @@ url: "https://rony-js.github.io" # Your GitHub Pages URL
 plugins:
   - jekyll-seo-tag
 markdown: kramdown
+remote_theme: smirnoffmg/harvard-style-cv-theme
