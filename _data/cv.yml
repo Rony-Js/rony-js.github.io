@@ -176,4 +176,4 @@ sections:
   sub: "PDF"
   location: "Download"
   dates: "Updated 2026"
-  url: "cv.pdf"
+  url: "/cv.pdf"
