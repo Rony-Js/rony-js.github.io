@@ -1,52 +1,74 @@
-sections:
-  - title: Education # Section title
-    entries:
-      - title: "University Name" # Institution name
-        sub: "Degree, Major" # Degree/major (optional)
-        location: "City, Country" # Location (optional)
-        dates: "Year or Date Range" # Dates (optional)
-        bullets:
-          - "Key achievement or detail."
-          - "Another bullet point."
-  - title: Experience
-    entries:
-      - title: "Job Title · Employer"
-        location: "City, Country"
-        dates: "Year or Date Range"
-        bullets:
-          - "What you did, impact, etc."
-          - "Another accomplishment."
-  - title: Skills
-    entries:
-      - title: "Programming Languages"
-        bullets:
-          - "Python, JavaScript, Ruby, C++"
-      - title: "Frameworks & Tools"
-        bullets:
-          - "Jekyll, React, Node.js, Git, Docker"
-  - title: Publications
-    entries:
-      - title: "Article Title"
-        sub: "Journal Name, Year"
-        bullets:
-          - "Short description or highlight of the publication."
-      - title: "Conference Paper Title"
-        sub: "Conference Name, Year"
-        bullets:
-          - "Summary of the paper or your contribution."
-  - title: Projects
-    entries:
-      - title: "Open Source Project Name"
-        sub: "Role (e.g., Maintainer)"
-        location: "GitHub"
-        dates: "2022-Present"
-        bullets:
-          - "Brief description of the project."
-          - "Key features or your contributions."
-      - title: "Personal Website"
-        sub: "Designer & Developer"
-        location: "yourwebsite.com"
-        dates: "2021-Present"
-        bullets:
-          - "Built with Jekyll and custom CSS."
-          - "Showcases portfolio and blog."
+- title: Education
+  entries:
+    - title: "IPVCE Carlos Marx"
+      sub: "High School Diploma in Exact Sciences"
+      location: "Cárdenas, Matanzas, Cuba"
+      dates: "Currently in 12th Grade"
+      bullets:
+        - "Secondary School Graduate (Annex Classroom of the Vocational Pre-University Institute of Exact Sciences), 2023."
+    - title: "IPVCE Carlos Marx"
+      sub: "Secondary School Graduate"
+      location: "Cárdenas, Matanzas, Cuba"
+      dates: "2023"
+
+- title: Experience
+  entries:
+    - title: "Competitive Programming Contestant"
+      sub: "IPVCE Carlos Marx"
+      location: "Cárdenas, Matanzas, Cuba"
+      dates: "2023-2027"
+      bullets:
+        - "Active competitor in provincial, national and international programming contests."
+    - title: "Chemistry Contestant"
+      sub: "ESBU José Martí"
+      location: "Cárdenas, Matanzas, Cuba"
+      dates: "2021-2023"
+
+- title: Skills
+  entries:
+    - title: "Programming Languages"
+      bullets:
+        - "Python, C++"
+    - title: "Frameworks & Tools"
+      bullets:
+        - "VS Code, PlatformIO, Arduino"
+    - title: "Languages"
+      bullets:
+        - "Spanish (Native), English (Intermediate), Italian (Basic), Portuguese (Basic)"
+
+- title: Projects
+  entries:
+    - title: "Doppler Project"
+      sub: "Founder & Lead"
+      location: "Cárdenas, Matanzas, Cuba"
+      dates: "2023-Present"
+      bullets:
+        - "Local development initiative to identify and nurture young talent through computer science and competitive programming."
+        - "First independent and private project based on learning and computer science in the city of Cárdenas."
+    - title: "Recycled Materials Robotics Project"
+      sub: "Author"
+      location: "Cuba"
+      dates: "2024"
+      bullets:
+        - "First Place in the Scientific Societies Conference."
+        - "Second Place nationally at the National Scientific Societies Conference."
+
+- title: Achievements
+  entries:
+    - title: "Ibero-American Informatics Olympiad"
+      sub: "Bronze Medal"
+      dates: "2025"
+    - title: "National Computer Science Contest"
+      sub: "Silver Medal"
+      dates: "2024"
+    - title: "UCI Cup"
+      sub: "Silver Medal"
+      dates: "2023, 2024"
+    - title: "Provincial Contest"
+      sub: "Gold Medal"
+      dates: "2023, 2024, 2025"
+    - title: "International IT Olympiad"
+      sub: "Honorable Mention"
+      dates: "2024"
+    - title: "National Preselection in Computer Science"
+      dates: "2024, 2025"
