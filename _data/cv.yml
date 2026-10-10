@@ -172,8 +172,8 @@ sections:
   # ----------------------------------------------------------
   # DOCUMENTS (para enlaces a PDF)
   # ----------------------------------------------------------
-  - title: "Curriculum Vitae"
-  sub: "PDF"
-  location: "Download"
-  dates: "Updated 2026"
-  url: "/cv.pdf"
+  # - title: "Curriculum Vitae"
+  # sub: "PDF"
+  # location: "Download"
+  # dates: "Updated 2026"
+  # url: "/cv.pdf"
