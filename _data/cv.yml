@@ -172,11 +172,8 @@ sections:
   # ----------------------------------------------------------
   # DOCUMENTS (para enlaces a PDF)
   # ----------------------------------------------------------
-  - title: Documents
-    entries:
-      - title: "Curriculum Vitae"
-        sub: "PDF"
-        location: "Download"
-        dates: "Updated 2026"
-        bullets:
-          - "[View PDF](/CV/cv.pdf)"
+  - title: "Curriculum Vitae"
+  sub: "PDF"
+  location: "Download"
+  dates: "Updated 2026"
+  url: "/CV/cv.pdf"
